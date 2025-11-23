@@ -14,6 +14,10 @@ body {
 #audio {
   display: block;
   margin: 0 auto;
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 /* ==== KARAOKE CHUẨN NHẬT – RESPONSIVE HOÀN HẢO 2025 ==== */
