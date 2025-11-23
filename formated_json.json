@@ -1,0 +1,412 @@
+[
+  {
+    "start": 15.5,
+    "end": 21.8,
+    "kanji": "続く時間の欠片を集めている",
+    "furigana": [
+      { "char": "続", "reading": "つづ" },
+      { "char": "く", "reading": "く" },
+      { "char": "時間", "reading": "じかん" },
+      { "char": "の", "reading": "の" },
+      { "char": "欠片", "reading": "かけら" },
+      { "char": "を", "reading": "を" },
+      { "char": "集", "reading": "あつ" },
+      { "char": "めている", "reading": "めている" }
+    ],
+    "translation": "Tôi đang thu thập những mảnh thời gian nối tiếp nhau"
+  },
+  {
+    "start": 22.2,
+    "end": 28.0,
+    "kanji": "ただ過ぎるノートの余白に書く",
+    "furigana": [
+      { "char": "ただ", "reading": "ただ" },
+      { "char": "過", "reading": "す" },
+      { "char": "ぎる", "reading": "ぎる" },
+      { "char": "ノート", "reading": "ノート" },
+      { "char": "の", "reading": "の" },
+      { "char": "余白", "reading": "よはく" },
+      { "char": "に", "reading": "に" },
+      { "char": "書", "reading": "か" },
+      { "char": "く", "reading": "く" }
+    ],
+    "translation": "Viết vào khoảng trắng của cuốn sổ trôi qua lặng lẽ"
+  },
+  {
+    "start": 28.0,
+    "end": 30.5,
+    "kanji": "「答えはいつ？」",
+    "furigana": [
+      { "char": "「", "reading": "「" },
+      { "char": "答", "reading": "こた" },
+      { "char": "えは", "reading": "えは" },
+      { "char": "いつ", "reading": "いつ" },
+      { "char": "？」", "reading": "？」" }
+    ],
+    "translation": "“Câu trả lời là khi nào?”"
+  },
+  {
+    "start": 30.8,
+    "end": 34.2,
+    "kanji": "ほんのり小さな感情へ",
+    "furigana": [
+      { "char": "ほんのり", "reading": "ほんのり" },
+      { "char": "小", "reading": "ちい" },
+      { "char": "さな", "reading": "さな" },
+      { "char": "感情", "reading": "かんじょう" },
+      { "char": "へ", "reading": "へ" }
+    ],
+    "translation": "Chỉ là một cảm xúc nhỏ nhoi"
+  },
+  {
+    "start": 34.2,
+    "end": 37.0,
+    "kanji": "愛をひとつ またね またね",
+    "furigana": [
+      { "char": "愛", "reading": "あい" },
+      { "char": "を", "reading": "を" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "またね", "reading": "またね" }
+    ],
+    "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
+  },
+  {
+    "start": 37.0,
+    "end": 41.0,
+    "kanji": "夜に咲く温度と灯るまで",
+    "furigana": [
+      { "char": "夜", "reading": "よる" },
+      { "char": "に", "reading": "に" },
+      { "char": "咲", "reading": "さ" },
+      { "char": "く", "reading": "く" },
+      { "char": "温度", "reading": "おんど" },
+      { "char": "と", "reading": "と" },
+      { "char": "灯", "reading": "とも" },
+      { "char": "るまで", "reading": "るまで" }
+    ],
+    "translation": "Cho đến khi nhiệt độ của đêm nở hoa và ánh sáng bật lên"
+  },
+  {
+    "start": 41.0,
+    "end": 45.6,
+    "kanji": "呼吸ひとつ 生きる 生きる",
+    "furigana": [
+      { "char": "呼吸", "reading": "こきゅう" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "生", "reading": "い" },
+      { "char": "きる", "reading": "きる" },
+      { "char": "生", "reading": "い" },
+      { "char": "きる", "reading": "きる" }
+    ],
+    "translation": "Một hơi thở, sống, sống"
+  },
+  {
+    "start": 45.6,
+    "end": 50.6,
+    "kanji": "優しい日々の横で泣かぬように 鳴呼",
+    "furigana": [
+      { "char": "優", "reading": "やさ" },
+      { "char": "しい", "reading": "しい" },
+      { "char": "日々", "reading": "ひび" },
+      { "char": "の", "reading": "の" },
+      { "char": "横", "reading": "よこ" },
+      { "char": "で", "reading": "で" },
+      { "char": "泣", "reading": "な" },
+      { "char": "かぬように", "reading": "かぬように" },
+      { "char": "鳴呼", "reading": "ああ" }
+    ],
+    "translation": "Để không khóc bên cạnh những ngày dịu dàng, à…"
+  },
+  {
+    "start": 55.6,
+    "end": 57.3,
+    "kanji": "泣かぬように",
+    "furigana": [
+      { "char": "泣", "reading": "な" },
+      { "char": "かぬように", "reading": "かぬように" }
+    ],
+    "translation": "Để không khóc"
+  },
+  {
+    "start": 63.3,
+    "end": 68.2,
+    "kanji": "ちっちゃな言葉チクチクしたの",
+    "furigana": [
+      { "char": "ちっちゃな", "reading": "ちっちゃな" },
+      { "char": "言葉", "reading": "ことば" },
+      { "char": "チクチク", "reading": "チクチク" },
+      { "char": "したの", "reading": "したの" }
+    ],
+    "translation": "Những lời nhỏ nhói nhói trong lòng"
+  },
+  {
+    "start": 68.6,
+    "end": 70.2,
+    "kanji": "キリが無いけどさ",
+    "furigana": [
+      { "char": "キリ", "reading": "キリ" },
+      { "char": "が", "reading": "が" },
+      { "char": "無", "reading": "な" },
+      { "char": "いけどさ", "reading": "いけどさ" }
+    ],
+    "translation": "Không có hồi kết nhưng…"
+  },
+  {
+    "start": 70.6,
+    "end": 75.8,
+    "kanji": "それを忘れたフリ 疲れたよ",
+    "furigana": [
+      { "char": "それ", "reading": "それ" },
+      { "char": "を", "reading": "を" },
+      { "char": "忘", "reading": "わす" },
+      { "char": "れた", "reading": "れた" },
+      { "char": "フリ", "reading": "フリ" },
+      { "char": "疲", "reading": "つか" },
+      { "char": "れたよ", "reading": "れたよ" }
+    ],
+    "translation": "Giả vờ quên chúng, thật mệt mỏi"
+  },
+  {
+    "start": 75.8,
+    "end": 82.0,
+    "kanji": "夜よ抱きしめて",
+    "furigana": [
+      { "char": "夜", "reading": "よる" },
+      { "char": "よ", "reading": "よ" },
+      { "char": "抱", "reading": "だ" },
+      { "char": "きしめて", "reading": "きしめて" }
+    ],
+    "translation": "Đêm ơi, ôm lấy tôi"
+  },
+  {
+    "start": 93.2,
+    "end": 96.5,
+    "kanji": "今日だって 笑う 笑う",
+    "furigana": [
+      { "char": "今日", "reading": "きょう" },
+      { "char": "だって", "reading": "だって" },
+      { "char": "笑", "reading": "わら" },
+      { "char": "う", "reading": "う" },
+      { "char": "笑", "reading": "わら" },
+      { "char": "う", "reading": "う" }
+    ],
+    "translation": "Hôm nay cũng vậy, cười, cười"
+  },
+  {
+    "start": 96.5,
+    "end": 100.3,
+    "kanji": "泣いちゃう僕を隠すために笑う",
+    "furigana": [
+      { "char": "泣", "reading": "な" },
+      { "char": "いちゃう", "reading": "いちゃう" },
+      { "char": "僕", "reading": "ぼく" },
+      { "char": "を", "reading": "を" },
+      { "char": "隠", "reading": "かく" },
+      { "char": "すために", "reading": "すために" },
+      { "char": "笑", "reading": "わら" },
+      { "char": "う", "reading": "う" }
+    ],
+    "translation": "Cười để che giấu bản thân đang khóc"
+  },
+  {
+    "start": 100.3,
+    "end": 104.0,
+    "kanji": "言えないことは言えないで良い",
+    "furigana": [
+      { "char": "言", "reading": "い" },
+      { "char": "えないことは", "reading": "えないことは" },
+      { "char": "言", "reading": "い" },
+      { "char": "えないで", "reading": "えないで" },
+      { "char": "良", "reading": "よ" },
+      { "char": "い", "reading": "い" }
+    ],
+    "translation": "Những điều không thể nói, thì không cần nói cũng được"
+  },
+  {
+    "start": 104.0,
+    "end": 107.7,
+    "kanji": "って思えたら軽くなれるのかな",
+    "furigana": [
+      { "char": "って", "reading": "って" },
+      { "char": "思", "reading": "おも" },
+      { "char": "えたら", "reading": "えたら" },
+      { "char": "軽", "reading": "かる" },
+      { "char": "くなれるのかな", "reading": "くなれるのかな" }
+    ],
+    "translation": "Có lẽ nếu nghĩ thế sẽ nhẹ nhõm hơn"
+  },
+  {
+    "start": 108.5,
+    "end": 111.5,
+    "kanji": "愛をひとつ またね またね",
+    "furigana": [
+      { "char": "愛", "reading": "あい" },
+      { "char": "を", "reading": "を" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "またね", "reading": "またね" }
+    ],
+    "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
+  },
+  {
+    "start": 111.5,
+    "end": 115.2,
+    "kanji": "夜に咲く温度と灯るまで",
+    "furigana": [
+      { "char": "夜", "reading": "よる" },
+      { "char": "に", "reading": "に" },
+      { "char": "咲", "reading": "さ" },
+      { "char": "く", "reading": "く" },
+      { "char": "温度", "reading": "おんど" },
+      { "char": "と", "reading": "と" },
+      { "char": "灯", "reading": "とも" },
+      { "char": "るまで", "reading": "るまで" }
+    ],
+    "translation": "Cho đến khi nhiệt độ của đêm nở hoa và ánh sáng bật lên"
+  },
+  {
+    "start": 115.2,
+    "end": 118.8,
+    "kanji": "呼吸ひとつ 生きる 生きる",
+    "furigana": [
+      { "char": "呼吸", "reading": "こきゅう" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "生", "reading": "い" },
+      { "char": "きる", "reading": "きる" },
+      { "char": "生", "reading": "い" },
+      { "char": "きる", "reading": "きる" }
+    ],
+    "translation": "Một hơi thở, sống, sống"
+  },
+  {
+    "start": 118.8,
+    "end": 122.3,
+    "kanji": "優しい日々の横で泣かぬように",
+    "furigana": [
+      { "char": "優", "reading": "やさ" },
+      { "char": "しい", "reading": "しい" },
+      { "char": "日々", "reading": "ひび" },
+      { "char": "の", "reading": "の" },
+      { "char": "横", "reading": "よこ" },
+      { "char": "で", "reading": "で" },
+      { "char": "泣", "reading": "な" },
+      { "char": "かぬように", "reading": "かぬように" }
+    ],
+    "translation": "Để không khóc bên cạnh những ngày dịu dàng"
+  },
+  {
+    "start": 123.0,
+    "end": 128.1,
+    "kanji": "愛をひとつ またね またね 嗚呼",
+    "furigana": [
+      { "char": "愛", "reading": "あい" },
+      { "char": "を", "reading": "を" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "嗚呼", "reading": "ああ" }
+    ],
+    "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại, à…"
+  },
+  {
+    "start": 130.6,
+    "end": 133.7,
+    "kanji": "愛をひとつ またね またね",
+    "furigana": [
+      { "char": "愛", "reading": "あい" },
+      { "char": "を", "reading": "を" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "またね", "reading": "またね" }
+    ],
+    "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
+  },
+  {
+    "start": 133.7,
+    "end": 137.4,
+    "kanji": "優しい日々の横で笑うように 嗚呼",
+    "furigana": [
+      { "char": "優", "reading": "やさ" },
+      { "char": "しい", "reading": "しい" },
+      { "char": "日々", "reading": "ひび" },
+      { "char": "の", "reading": "の" },
+      { "char": "横", "reading": "よこ" },
+      { "char": "で", "reading": "で" },
+      { "char": "笑", "reading": "わら" },
+      { "char": "うように", "reading": "うように" },
+      { "char": "嗚呼", "reading": "ああ" }
+    ],
+    "translation": "Cười bên cạnh những ngày dịu dàng, à…"
+  },
+  {
+    "start": 137.4,
+    "end": 139.3,
+    "kanji": "吐き出す気持ちは簡単で",
+    "furigana": [
+      { "char": "吐", "reading": "は" },
+      { "char": "き", "reading": "き" },
+      { "char": "出", "reading": "だ" },
+      { "char": "す", "reading": "す" },
+      { "char": "気持", "reading": "きも" },
+      { "char": "ちは", "reading": "ちは" },
+      { "char": "簡単", "reading": "かんたん" },
+      { "char": "で", "reading": "で" }
+    ],
+    "translation": "Thổ lộ cảm xúc thì đơn giản"
+  },
+  {
+    "start": 139.3,
+    "end": 141.5,
+    "kanji": "でも生きるの難易度高すぎて",
+    "furigana": [
+      { "char": "でも", "reading": "でも" },
+      { "char": "生", "reading": "い" },
+      { "char": "きるの", "reading": "きるの" },
+      { "char": "難易度", "reading": "なんいど" },
+      { "char": "高", "reading": "たか" },
+      { "char": "すぎて", "reading": "すぎて" }
+    ],
+    "translation": "Nhưng sống thật ra độ khó quá cao"
+  },
+  {
+    "start": 141.5,
+    "end": 145.0,
+    "kanji": "どうにも解けない問いだらけ 嗚呼",
+    "furigana": [
+      { "char": "どうにも", "reading": "どうにも" },
+      { "char": "解", "reading": "と" },
+      { "char": "けない", "reading": "けない" },
+      { "char": "問", "reading": "と" },
+      { "char": "いだらけ", "reading": "いだらけ" },
+      { "char": "嗚呼", "reading": "ああ" }
+    ],
+    "translation": "Đầy những câu hỏi không cách nào giải được, à…"
+  },
+  {
+    "start": 145.0,
+    "end": 148.5,
+    "kanji": "さっぱりきっかり前向いて",
+    "furigana": [
+      { "char": "さっぱり", "reading": "さっぱり" },
+      { "char": "きっかり", "reading": "きっかり" },
+      { "char": "前", "reading": "まえ" },
+      { "char": "向", "reading": "む" },
+      { "char": "いて", "reading": "いて" }
+    ],
+    "translation": "Không cần phải bước thẳng về phía trước một cách hoàn hảo"
+  },
+  {
+    "start": 148.5,
+    "end": 153.0,
+    "kanji": "愛をひとつ またね またね",
+    "furigana": [
+      { "char": "愛", "reading": "あい" },
+      { "char": "を", "reading": "を" },
+      { "char": "ひとつ", "reading": "ひとつ" },
+      { "char": "またね", "reading": "またね" },
+      { "char": "またね", "reading": "またね" }
+    ],
+    "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
+  }
+]

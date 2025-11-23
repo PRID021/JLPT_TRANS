@@ -1,0 +1,80 @@
+{{Player}}
+
+{{Lyrics}}
+
+<div id="lyrics"></div>
+
+<script>
+  const audio = document.getElementById("audio");
+  const lyricsDiv = document.getElementById("lyrics");
+  const lyricElement = document.getElementById("lyricData");
+
+  let lyrics = [];
+  if (lyricElement) {
+    try { lyrics = JSON.parse(lyricElement.textContent.trim()); }
+    catch (e) { console.error("JSON lỗi:", e); }
+  }
+
+  // Render 1 dòng
+  function renderLine(line) {
+    let kanjiHTML = '';
+
+    if (!line.furigana || line.furigana.length === 0) {
+      kanjiHTML = escapeHtml(line.kanji);
+    } else {
+      let text = line.kanji;
+      let offset = 0;
+
+      // Sắp xếp đúng thứ tự xuất hiện
+      const sorted = [...line.furigana].sort((a, b) =>
+        text.indexOf(a.char, offset) - text.indexOf(b.char, offset)
+      );
+
+      for (const f of sorted) {
+        const idx = text.indexOf(f.char, offset);
+        if (idx === -1) continue;
+
+        // Phần chữ trước cụm
+        if (idx > offset) kanjiHTML += escapeHtml(text.substring(offset, idx));
+
+        // Chuẩn hóa để so sánh
+        const readingNorm = f.reading.replace(/[ーっ]/g, '').trim();
+        const charNorm = f.char.replace(/[ーっ]/g, '').trim();
+
+        const needFuri = readingNorm !== charNorm && f.reading.trim() !== '';
+
+        if (needFuri) {
+          kanjiHTML += `<span class="furi-group">
+                        <span class="furi">${escapeHtml(f.reading)}</span>
+                        <span class="line"></span>
+                        ${escapeHtml(f.char)}
+                      </span>`;
+        } else {
+          kanjiHTML += escapeHtml(f.char);   // đọc giống chữ → không hiện gì
+        }
+
+        offset = idx + f.char.length;
+      }
+
+      // ✅ Add Vietnamese translation in the next line
+
+      if (offset < text.length) kanjiHTML += escapeHtml(text.substring(offset));
+    }
+    return `<div class="kanji">${kanjiHTML}</div>
+        <div class="vietnamese">${escapeHtml(line.translation)}</div>`;
+
+  }
+
+  function escapeHtml(t) {
+    const div = document.createElement('div');
+    div.textContent = t;
+    return div.innerHTML;
+  }
+
+  // Sync theo thời gian
+  audio.addEventListener("timeupdate", () => {
+    const t = audio.currentTime;
+    const cur = lyrics.find(l => t >= l.start && t < (l.end || Infinity));
+    lyricsDiv.innerHTML = cur ? renderLine(cur) : "";
+  });
+</script>
