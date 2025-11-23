@@ -4,14 +4,14 @@
     "end": 21.8,
     "kanji": "続く時間の欠片を集めている",
     "furigana": [
-      { "char": "続", "reading": "つづ" },
-      { "char": "く", "reading": "く" },
-      { "char": "時間", "reading": "じかん" },
-      { "char": "の", "reading": "の" },
-      { "char": "欠片", "reading": "かけら" },
-      { "char": "を", "reading": "を" },
-      { "char": "集", "reading": "あつ" },
-      { "char": "めている", "reading": "めている" }
+      { "char": "続", "reading": "つづ", "romaji": "tsuzuku" },
+      { "char": "く", "reading": "く", "romaji": "ku" },
+      { "char": "時間", "reading": "じかん", "romaji": "jikan" },
+      { "char": "の", "reading": "の", "romaji": "no" },
+      { "char": "欠片", "reading": "かけら", "romaji": "kakera" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "集", "reading": "あつ", "romaji": "atsu" },
+      { "char": "めている", "reading": "めている", "romaji": "mete iru" }
     ],
     "translation": "Tôi đang thu thập những mảnh thời gian nối tiếp nhau"
   },
@@ -20,15 +20,15 @@
     "end": 28.0,
     "kanji": "ただ過ぎるノートの余白に書く",
     "furigana": [
-      { "char": "ただ", "reading": "ただ" },
-      { "char": "過", "reading": "す" },
-      { "char": "ぎる", "reading": "ぎる" },
-      { "char": "ノート", "reading": "ノート" },
-      { "char": "の", "reading": "の" },
-      { "char": "余白", "reading": "よはく" },
-      { "char": "に", "reading": "に" },
-      { "char": "書", "reading": "か" },
-      { "char": "く", "reading": "く" }
+      { "char": "ただ", "reading": "ただ", "romaji": "tada" },
+      { "char": "過", "reading": "す", "romaji": "sugi" },
+      { "char": "ぎる", "reading": "ぎる", "romaji": "ru" },
+      { "char": "ノート", "reading": "ノート", "romaji": "nōto" },
+      { "char": "の", "reading": "の", "romaji": "no" },
+      { "char": "余白", "reading": "よはく", "romaji": "yohaku" },
+      { "char": "に", "reading": "に", "romaji": "ni" },
+      { "char": "書", "reading": "か", "romaji": "kaku" },
+      { "char": "く", "reading": "く", "romaji": "ku" }
     ],
     "translation": "Viết vào khoảng trắng của cuốn sổ trôi qua lặng lẽ"
   },
@@ -37,11 +37,11 @@
     "end": 30.4,
     "kanji": "「答えはいつ？」",
     "furigana": [
-      { "char": "「", "reading": "「" },
-      { "char": "答", "reading": "こた" },
-      { "char": "えは", "reading": "えは" },
-      { "char": "いつ", "reading": "いつ" },
-      { "char": "？」", "reading": "？」" }
+      { "char": "「", "reading": "「", "romaji": "" },
+      { "char": "答", "reading": "こた", "romaji": "kotae" },
+      { "char": "えは", "reading": "えは", "romaji": "wa" },
+      { "char": "いつ", "reading": "いつ", "romaji": "itsu" },
+      { "char": "？」", "reading": "？」", "romaji": "" }
     ],
     "translation": "“Câu trả lời là khi nào?”"
   },
@@ -50,11 +50,11 @@
     "end": 33.8,
     "kanji": "ほんのり小さな感情へ",
     "furigana": [
-      { "char": "ほんのり", "reading": "ほんのり" },
-      { "char": "小", "reading": "ちい" },
-      { "char": "さな", "reading": "さな" },
-      { "char": "感情", "reading": "かんじょう" },
-      { "char": "へ", "reading": "へ" }
+      { "char": "ほんのり", "reading": "ほんのり", "romaji": "honnori" },
+      { "char": "小", "reading": "ちい", "romaji": "chiisa" },
+      { "char": "さな", "reading": "さな", "romaji": "na" },
+      { "char": "感情", "reading": "かんじょう", "romaji": "kanjō" },
+      { "char": "へ", "reading": "へ", "romaji": "e" }
     ],
     "translation": "Chỉ là một cảm xúc nhỏ nhoi"
   },
@@ -63,11 +63,11 @@
     "end": 37.4,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
-      { "char": "愛", "reading": "あい" },
-      { "char": "を", "reading": "を" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "またね", "reading": "またね" }
+      { "char": "愛", "reading": "あい", "romaji": "ai" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" }
     ],
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
@@ -76,14 +76,14 @@
     "end": 41.0,
     "kanji": "夜に咲く温度と灯るまで",
     "furigana": [
-      { "char": "夜", "reading": "よる" },
-      { "char": "に", "reading": "に" },
-      { "char": "咲", "reading": "さ" },
-      { "char": "く", "reading": "く" },
-      { "char": "温度", "reading": "おんど" },
-      { "char": "と", "reading": "と" },
-      { "char": "灯", "reading": "とも" },
-      { "char": "るまで", "reading": "るまで" }
+      { "char": "夜", "reading": "よる", "romaji": "yoru" },
+      { "char": "に", "reading": "に", "romaji": "ni" },
+      { "char": "咲", "reading": "さ", "romaji": "saku" },
+      { "char": "く", "reading": "く", "romaji": "ku" },
+      { "char": "温度", "reading": "おんど", "romaji": "ondo" },
+      { "char": "と", "reading": "と", "romaji": "to" },
+      { "char": "灯", "reading": "とも", "romaji": "tomoru" },
+      { "char": "るまで", "reading": "るまで", "romaji": "made" }
     ],
     "translation": "Cho đến khi nhiệt độ của đêm nở hoa và ánh sáng bật lên"
   },
@@ -92,12 +92,12 @@
     "end": 44.6,
     "kanji": "呼吸ひとつ 生きる 生きる",
     "furigana": [
-      { "char": "呼吸", "reading": "こきゅう" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "生", "reading": "い" },
-      { "char": "きる", "reading": "きる" },
-      { "char": "生", "reading": "い" },
-      { "char": "きる", "reading": "きる" }
+      { "char": "呼吸", "reading": "こきゅう", "romaji": "kokyū" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "生", "reading": "い", "romaji": "iki" },
+      { "char": "きる", "reading": "きる", "romaji": "ru" },
+      { "char": "生", "reading": "い", "romaji": "iki" },
+      { "char": "きる", "reading": "きる", "romaji": "ru" }
     ],
     "translation": "Một hơi thở, sống, sống"
   },
@@ -106,23 +106,23 @@
     "end": 48.6,
     "kanji": "優しい日々の横で泣かぬように 鳴呼",
     "furigana": [
-      { "char": "優", "reading": "やさ" },
-      { "char": "しい", "reading": "しい" },
-      { "char": "日々", "reading": "ひび" },
-      { "char": "の", "reading": "の" },
-      { "char": "横", "reading": "よこ" },
-      { "char": "で", "reading": "で" },
-      { "char": "泣", "reading": "な" },
-      { "char": "かぬように", "reading": "かぬように" },
-      { "char": "鳴呼", "reading": "ああ" }
+      { "char": "優", "reading": "やさ", "romaji": "yasashii" },
+      { "char": "しい", "reading": "しい", "romaji": "" },
+      { "char": "日々", "reading": "ひび", "romaji": "hibi" },
+      { "char": "の", "reading": "の", "romaji": "no" },
+      { "char": "横", "reading": "よこ", "romaji": "yoko" },
+      { "char": "で", "reading": "で", "romaji": "de" },
+      { "char": "泣", "reading": "な", "romaji": "nakanu" },
+      { "char": "かぬように", "reading": "かぬように", "romaji": "yō ni" },
+      { "char": "鳴呼", "reading": "ああ", "romaji": "ā" }
     ],
     "translation": "Để không khóc bên cạnh những ngày dịu dàng, à…"
   },
   {
     "start": 48.6,
-    "end": 51,
+    "end": 51.0,
     "kanji": "鳴呼",
-    "furigana": [{ "char": "鳴呼", "reading": "ああ" }],
+    "furigana": [{ "char": "鳴呼", "reading": "ああ", "romaji": "ā" }],
     "translation": "à à…"
   },
   {
@@ -130,8 +130,8 @@
     "end": 57.3,
     "kanji": "泣かぬように",
     "furigana": [
-      { "char": "泣", "reading": "な" },
-      { "char": "かぬように", "reading": "かぬように" }
+      { "char": "泣", "reading": "な", "romaji": "nakanu" },
+      { "char": "かぬように", "reading": "かぬように", "romaji": "yō ni" }
     ],
     "translation": "Để không khóc"
   },
@@ -140,10 +140,10 @@
     "end": 68.0,
     "kanji": "ちっちゃな言葉チクチクしたの",
     "furigana": [
-      { "char": "ちっちゃな", "reading": "ちっちゃな" },
-      { "char": "言葉", "reading": "ことば" },
-      { "char": "チクチク", "reading": "チクチク" },
-      { "char": "したの", "reading": "したの" }
+      { "char": "ちっちゃな", "reading": "ちっちゃな", "romaji": "chicchana" },
+      { "char": "言葉", "reading": "ことば", "romaji": "kotoba" },
+      { "char": "チクチク", "reading": "チクチク", "romaji": "chikuchiku" },
+      { "char": "したの", "reading": "したの", "romaji": "shita no" }
     ],
     "translation": "Những lời nhỏ nhói nhói trong lòng"
   },
@@ -152,10 +152,10 @@
     "end": 70.5,
     "kanji": "キリが無いけどさ",
     "furigana": [
-      { "char": "キリ", "reading": "キリ" },
-      { "char": "が", "reading": "が" },
-      { "char": "無", "reading": "な" },
-      { "char": "いけどさ", "reading": "いけどさ" }
+      { "char": "キリ", "reading": "キリ", "romaji": "kiri" },
+      { "char": "が", "reading": "が", "romaji": "ga" },
+      { "char": "無", "reading": "な", "romaji": "nai" },
+      { "char": "いけどさ", "reading": "いけどさ", "romaji": "kedo sa" }
     ],
     "translation": "Không có hồi kết nhưng…"
   },
@@ -164,13 +164,13 @@
     "end": 75.5,
     "kanji": "それを忘れたフリ 疲れたよ",
     "furigana": [
-      { "char": "それ", "reading": "それ" },
-      { "char": "を", "reading": "を" },
-      { "char": "忘", "reading": "わす" },
-      { "char": "れた", "reading": "れた" },
-      { "char": "フリ", "reading": "フリ" },
-      { "char": "疲", "reading": "つか" },
-      { "char": "れたよ", "reading": "れたよ" }
+      { "char": "それ", "reading": "それ", "romaji": "sore" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "忘", "reading": "わす", "romaji": "wasure" },
+      { "char": "れた", "reading": "れた", "romaji": "ta" },
+      { "char": "フリ", "reading": "フリ", "romaji": "furi" },
+      { "char": "疲", "reading": "つか", "romaji": "tsukare" },
+      { "char": "れたよ", "reading": "れたよ", "romaji": "ta yo" }
     ],
     "translation": "Giả vờ quên chúng, thật mệt mỏi"
   },
@@ -179,10 +179,10 @@
     "end": 82.0,
     "kanji": "夜よ抱きしめて",
     "furigana": [
-      { "char": "夜", "reading": "よる" },
-      { "char": "よ", "reading": "よ" },
-      { "char": "抱", "reading": "だ" },
-      { "char": "きしめて", "reading": "きしめて" }
+      { "char": "夜", "reading": "よる", "romaji": "yoru" },
+      { "char": "よ", "reading": "よ", "romaji": "yo" },
+      { "char": "抱", "reading": "だ", "romaji": "daki" },
+      { "char": "きしめて", "reading": "きしめて", "romaji": "shime te" }
     ],
     "translation": "Đêm ơi, ôm lấy tôi"
   },
@@ -191,12 +191,12 @@
     "end": 96.4,
     "kanji": "今日だって 笑う 笑う",
     "furigana": [
-      { "char": "今日", "reading": "きょう" },
-      { "char": "だって", "reading": "だって" },
-      { "char": "笑", "reading": "わら" },
-      { "char": "う", "reading": "う" },
-      { "char": "笑", "reading": "わら" },
-      { "char": "う", "reading": "う" }
+      { "char": "今日", "reading": "きょう", "romaji": "kyō" },
+      { "char": "だって", "reading": "だって", "romaji": "datte" },
+      { "char": "笑", "reading": "わら", "romaji": "wara" },
+      { "char": "う", "reading": "う", "romaji": "u" },
+      { "char": "笑", "reading": "わら", "romaji": "wara" },
+      { "char": "う", "reading": "う", "romaji": "u" }
     ],
     "translation": "Hôm nay cũng vậy, cười, cười"
   },
@@ -205,14 +205,14 @@
     "end": 100.3,
     "kanji": "泣いちゃう僕を隠すために笑う",
     "furigana": [
-      { "char": "泣", "reading": "な" },
-      { "char": "いちゃう", "reading": "いちゃう" },
-      { "char": "僕", "reading": "ぼく" },
-      { "char": "を", "reading": "を" },
-      { "char": "隠", "reading": "かく" },
-      { "char": "すために", "reading": "すために" },
-      { "char": "笑", "reading": "わら" },
-      { "char": "う", "reading": "う" }
+      { "char": "泣", "reading": "な", "romaji": "nai" },
+      { "char": "いちゃう", "reading": "いちゃう", "romaji": "chau" },
+      { "char": "僕", "reading": "ぼく", "romaji": "boku" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "隠", "reading": "かく", "romaji": "kakusu" },
+      { "char": "すために", "reading": "すために", "romaji": "tame ni" },
+      { "char": "笑", "reading": "わら", "romaji": "wara" },
+      { "char": "う", "reading": "う", "romaji": "u" }
     ],
     "translation": "Cười để che giấu bản thân đang khóc"
   },
@@ -221,12 +221,16 @@
     "end": 104.0,
     "kanji": "言えないことは言えないで良い",
     "furigana": [
-      { "char": "言", "reading": "い" },
-      { "char": "えないことは", "reading": "えないことは" },
-      { "char": "言", "reading": "い" },
-      { "char": "えないで", "reading": "えないで" },
-      { "char": "良", "reading": "よ" },
-      { "char": "い", "reading": "い" }
+      { "char": "言", "reading": "い", "romaji": "ie" },
+      {
+        "char": "えないことは",
+        "reading": "えないことは",
+        "romaji": "nai koto wa"
+      },
+      { "char": "言", "reading": "い", "romaji": "ie" },
+      { "char": "えないで", "reading": "えないで", "romaji": "nai de" },
+      { "char": "良", "reading": "よ", "romaji": "yo" },
+      { "char": "い", "reading": "い", "romaji": "i" }
     ],
     "translation": "Những điều không thể nói, thì không cần nói cũng được"
   },
@@ -235,24 +239,28 @@
     "end": 107.7,
     "kanji": "って思えたら軽くなれるのかな",
     "furigana": [
-      { "char": "って", "reading": "って" },
-      { "char": "思", "reading": "おも" },
-      { "char": "えたら", "reading": "えたら" },
-      { "char": "軽", "reading": "かる" },
-      { "char": "くなれるのかな", "reading": "くなれるのかな" }
+      { "char": "って", "reading": "って", "romaji": "tte" },
+      { "char": "思", "reading": "おも", "romaji": "omoe" },
+      { "char": "えたら", "reading": "えたら", "romaji": "tara" },
+      { "char": "軽", "reading": "かる", "romaji": "karuku" },
+      {
+        "char": "くなれるのかな",
+        "reading": "くなれるのかな",
+        "romaji": "nareru no kana"
+      }
     ],
     "translation": "Có lẽ nếu nghĩ thế sẽ nhẹ nhõm hơn"
   },
   {
-    "start": 108,
+    "start": 108.0,
     "end": 111.2,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
-      { "char": "愛", "reading": "あい" },
-      { "char": "を", "reading": "を" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "またね", "reading": "またね" }
+      { "char": "愛", "reading": "あい", "romaji": "ai" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" }
     ],
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
@@ -261,14 +269,14 @@
     "end": 114.9,
     "kanji": "夜に咲く温度と灯るまで",
     "furigana": [
-      { "char": "夜", "reading": "よる" },
-      { "char": "に", "reading": "に" },
-      { "char": "咲", "reading": "さ" },
-      { "char": "く", "reading": "く" },
-      { "char": "温度", "reading": "おんど" },
-      { "char": "と", "reading": "と" },
-      { "char": "灯", "reading": "とも" },
-      { "char": "るまで", "reading": "るまで" }
+      { "char": "夜", "reading": "よる", "romaji": "yoru" },
+      { "char": "に", "reading": "に", "romaji": "ni" },
+      { "char": "咲", "reading": "さ", "romaji": "saku" },
+      { "char": "く", "reading": "く", "romaji": "ku" },
+      { "char": "温度", "reading": "おんど", "romaji": "ondo" },
+      { "char": "と", "reading": "と", "romaji": "to" },
+      { "char": "灯", "reading": "とも", "romaji": "tomoru" },
+      { "char": "るまで", "reading": "るまで", "romaji": "made" }
     ],
     "translation": "Cho đến khi nhiệt độ của đêm nở hoa và ánh sáng bật lên"
   },
@@ -277,12 +285,12 @@
     "end": 118.6,
     "kanji": "呼吸ひとつ 生きる 生きる",
     "furigana": [
-      { "char": "呼吸", "reading": "こきゅう" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "生", "reading": "い" },
-      { "char": "きる", "reading": "きる" },
-      { "char": "生", "reading": "い" },
-      { "char": "きる", "reading": "きる" }
+      { "char": "呼吸", "reading": "こきゅう", "romaji": "kokyū" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "生", "reading": "い", "romaji": "iki" },
+      { "char": "きる", "reading": "きる", "romaji": "ru" },
+      { "char": "生", "reading": "い", "romaji": "iki" },
+      { "char": "きる", "reading": "きる", "romaji": "ru" }
     ],
     "translation": "Một hơi thở, sống, sống"
   },
@@ -291,14 +299,14 @@
     "end": 122.2,
     "kanji": "優しい日々の横で泣かぬように",
     "furigana": [
-      { "char": "優", "reading": "やさ" },
-      { "char": "しい", "reading": "しい" },
-      { "char": "日々", "reading": "ひび" },
-      { "char": "の", "reading": "の" },
-      { "char": "横", "reading": "よこ" },
-      { "char": "で", "reading": "で" },
-      { "char": "泣", "reading": "な" },
-      { "char": "かぬように", "reading": "かぬように" }
+      { "char": "優", "reading": "やさ", "romaji": "yasashii" },
+      { "char": "しい", "reading": "しい", "romaji": "" },
+      { "char": "日々", "reading": "ひび", "romaji": "hibi" },
+      { "char": "の", "reading": "の", "romaji": "no" },
+      { "char": "横", "reading": "よこ", "romaji": "yoko" },
+      { "char": "で", "reading": "で", "romaji": "de" },
+      { "char": "泣", "reading": "な", "romaji": "nakanu" },
+      { "char": "かぬように", "reading": "かぬように", "romaji": "yō ni" }
     ],
     "translation": "Để không khóc bên cạnh những ngày dịu dàng"
   },
@@ -307,12 +315,12 @@
     "end": 128.1,
     "kanji": "愛をひとつ またね またね 嗚呼",
     "furigana": [
-      { "char": "愛", "reading": "あい" },
-      { "char": "を", "reading": "を" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "嗚呼", "reading": "ああ" }
+      { "char": "愛", "reading": "あい", "romaji": "ai" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "嗚呼", "reading": "ああ", "romaji": "ā" }
     ],
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại, à…"
   },
@@ -321,11 +329,11 @@
     "end": 133.4,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
-      { "char": "愛", "reading": "あい" },
-      { "char": "を", "reading": "を" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "またね", "reading": "またね" }
+      { "char": "愛", "reading": "あい", "romaji": "ai" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" }
     ],
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
@@ -334,15 +342,15 @@
     "end": 137.4,
     "kanji": "優しい日々の横で笑うように 嗚呼",
     "furigana": [
-      { "char": "優", "reading": "やさ" },
-      { "char": "しい", "reading": "しい" },
-      { "char": "日々", "reading": "ひび" },
-      { "char": "の", "reading": "の" },
-      { "char": "横", "reading": "よこ" },
-      { "char": "で", "reading": "で" },
-      { "char": "笑", "reading": "わら" },
-      { "char": "うように", "reading": "うように" },
-      { "char": "嗚呼", "reading": "ああ" }
+      { "char": "優", "reading": "やさ", "romaji": "yasashii" },
+      { "char": "しい", "reading": "しい", "romaji": "" },
+      { "char": "日々", "reading": "ひび", "romaji": "hibi" },
+      { "char": "の", "reading": "の", "romaji": "no" },
+      { "char": "横", "reading": "よこ", "romaji": "yoko" },
+      { "char": "で", "reading": "で", "romaji": "de" },
+      { "char": "笑", "reading": "わら", "romaji": "wara" },
+      { "char": "うように", "reading": "うように", "romaji": "u yō ni" },
+      { "char": "嗚呼", "reading": "ああ", "romaji": "ā" }
     ],
     "translation": "Cười bên cạnh những ngày dịu dàng, à…"
   },
@@ -351,14 +359,14 @@
     "end": 139.3,
     "kanji": "吐き出す気持ちは簡単で",
     "furigana": [
-      { "char": "吐", "reading": "は" },
-      { "char": "き", "reading": "き" },
-      { "char": "出", "reading": "だ" },
-      { "char": "す", "reading": "す" },
-      { "char": "気持", "reading": "きも" },
-      { "char": "ちは", "reading": "ちは" },
-      { "char": "簡単", "reading": "かんたん" },
-      { "char": "で", "reading": "で" }
+      { "char": "吐", "reading": "は", "romaji": "haki" },
+      { "char": "き", "reading": "き", "romaji": "" },
+      { "char": "出", "reading": "だ", "romaji": "dasu" },
+      { "char": "す", "reading": "す", "romaji": "" },
+      { "char": "気持", "reading": "きも", "romaji": "kimo" },
+      { "char": "ちは", "reading": "ちは", "romaji": "chi wa" },
+      { "char": "簡単", "reading": "かんたん", "romaji": "kantan" },
+      { "char": "で", "reading": "で", "romaji": "de" }
     ],
     "translation": "Thổ lộ cảm xúc thì đơn giản"
   },
@@ -367,12 +375,12 @@
     "end": 141.5,
     "kanji": "でも生きるの難易度高すぎて",
     "furigana": [
-      { "char": "でも", "reading": "でも" },
-      { "char": "生", "reading": "い" },
-      { "char": "きるの", "reading": "きるの" },
-      { "char": "難易度", "reading": "なんいど" },
-      { "char": "高", "reading": "たか" },
-      { "char": "すぎて", "reading": "すぎて" }
+      { "char": "でも", "reading": "でも", "romaji": "demo" },
+      { "char": "生", "reading": "い", "romaji": "iki" },
+      { "char": "きるの", "reading": "きるの", "romaji": "ru no" },
+      { "char": "難易度", "reading": "なんいど", "romaji": "nan’ido" },
+      { "char": "高", "reading": "たか", "romaji": "taka" },
+      { "char": "すぎて", "reading": "すぎて", "romaji": "sugite" }
     ],
     "translation": "Nhưng sống thật ra độ khó quá cao"
   },
@@ -381,12 +389,12 @@
     "end": 145.0,
     "kanji": "どうにも解けない問いだらけ 嗚呼",
     "furigana": [
-      { "char": "どうにも", "reading": "どうにも" },
-      { "char": "解", "reading": "と" },
-      { "char": "けない", "reading": "けない" },
-      { "char": "問", "reading": "と" },
-      { "char": "いだらけ", "reading": "いだらけ" },
-      { "char": "嗚呼", "reading": "ああ" }
+      { "char": "どうにも", "reading": "どうにも", "romaji": "dō ni mo" },
+      { "char": "解", "reading": "と", "romaji": "toke" },
+      { "char": "けない", "reading": "けない", "romaji": "nai" },
+      { "char": "問", "reading": "と", "romaji": "toi" },
+      { "char": "いだらけ", "reading": "いだらけ", "romaji": "darake" },
+      { "char": "嗚呼", "reading": "ああ", "romaji": "ā" }
     ],
     "translation": "Đầy những câu hỏi không cách nào giải được, à…"
   },
@@ -395,11 +403,11 @@
     "end": 148.5,
     "kanji": "さっぱりきっかり前向いて",
     "furigana": [
-      { "char": "さっぱり", "reading": "さっぱり" },
-      { "char": "きっかり", "reading": "きっかり" },
-      { "char": "前", "reading": "まえ" },
-      { "char": "向", "reading": "む" },
-      { "char": "いて", "reading": "いて" }
+      { "char": "さっぱり", "reading": "さっぱり", "romaji": "sappari" },
+      { "char": "きっかり", "reading": "きっかり", "romaji": "kikkari" },
+      { "char": "前", "reading": "まえ", "romaji": "mae" },
+      { "char": "向", "reading": "む", "romaji": "mui" },
+      { "char": "いて", "reading": "いて", "romaji": "te" }
     ],
     "translation": "Không cần phải bước thẳng về phía trước một cách hoàn hảo"
   },
@@ -408,11 +416,11 @@
     "end": 153.0,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
-      { "char": "愛", "reading": "あい" },
-      { "char": "を", "reading": "を" },
-      { "char": "ひとつ", "reading": "ひとつ" },
-      { "char": "またね", "reading": "またね" },
-      { "char": "またね", "reading": "またね" }
+      { "char": "愛", "reading": "あい", "romaji": "ai" },
+      { "char": "を", "reading": "を", "romaji": "o" },
+      { "char": "ひとつ", "reading": "ひとつ", "romaji": "hitotsu" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" }
     ],
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   }
