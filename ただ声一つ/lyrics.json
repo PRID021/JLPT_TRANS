@@ -34,7 +34,7 @@
   },
   {
     "start": 28.0,
-    "end": 30.5,
+    "end": 30.4,
     "kanji": "「答えはいつ？」",
     "furigana": [
       { "char": "「", "reading": "「" },
@@ -46,8 +46,8 @@
     "translation": "“Câu trả lời là khi nào?”"
   },
   {
-    "start": 30.8,
-    "end": 34.2,
+    "start": 30.4,
+    "end": 33.8,
     "kanji": "ほんのり小さな感情へ",
     "furigana": [
       { "char": "ほんのり", "reading": "ほんのり" },
@@ -59,8 +59,8 @@
     "translation": "Chỉ là một cảm xúc nhỏ nhoi"
   },
   {
-    "start": 34.2,
-    "end": 37.0,
+    "start": 33.8,
+    "end": 37.4,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
       { "char": "愛", "reading": "あい" },
@@ -72,7 +72,7 @@
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
   {
-    "start": 37.0,
+    "start": 37.4,
     "end": 41.0,
     "kanji": "夜に咲く温度と灯るまで",
     "furigana": [
@@ -89,7 +89,7 @@
   },
   {
     "start": 41.0,
-    "end": 45.6,
+    "end": 44.6,
     "kanji": "呼吸ひとつ 生きる 生きる",
     "furigana": [
       { "char": "呼吸", "reading": "こきゅう" },
@@ -102,8 +102,8 @@
     "translation": "Một hơi thở, sống, sống"
   },
   {
-    "start": 45.6,
-    "end": 50.6,
+    "start": 44.6,
+    "end": 48.6,
     "kanji": "優しい日々の横で泣かぬように 鳴呼",
     "furigana": [
       { "char": "優", "reading": "やさ" },
@@ -119,7 +119,14 @@
     "translation": "Để không khóc bên cạnh những ngày dịu dàng, à…"
   },
   {
-    "start": 55.6,
+    "start": 48.6,
+    "end": 51,
+    "kanji": "鳴呼",
+    "furigana": [{ "char": "鳴呼", "reading": "ああ" }],
+    "translation": "à à…"
+  },
+  {
+    "start": 55.0,
     "end": 57.3,
     "kanji": "泣かぬように",
     "furigana": [
@@ -129,8 +136,8 @@
     "translation": "Để không khóc"
   },
   {
-    "start": 63.3,
-    "end": 68.2,
+    "start": 63.0,
+    "end": 68.0,
     "kanji": "ちっちゃな言葉チクチクしたの",
     "furigana": [
       { "char": "ちっちゃな", "reading": "ちっちゃな" },
@@ -141,8 +148,8 @@
     "translation": "Những lời nhỏ nhói nhói trong lòng"
   },
   {
-    "start": 68.6,
-    "end": 70.2,
+    "start": 68.0,
+    "end": 70.5,
     "kanji": "キリが無いけどさ",
     "furigana": [
       { "char": "キリ", "reading": "キリ" },
@@ -153,8 +160,8 @@
     "translation": "Không có hồi kết nhưng…"
   },
   {
-    "start": 70.6,
-    "end": 75.8,
+    "start": 70.5,
+    "end": 75.5,
     "kanji": "それを忘れたフリ 疲れたよ",
     "furigana": [
       { "char": "それ", "reading": "それ" },
@@ -168,7 +175,7 @@
     "translation": "Giả vờ quên chúng, thật mệt mỏi"
   },
   {
-    "start": 75.8,
+    "start": 75.5,
     "end": 82.0,
     "kanji": "夜よ抱きしめて",
     "furigana": [
@@ -180,8 +187,8 @@
     "translation": "Đêm ơi, ôm lấy tôi"
   },
   {
-    "start": 93.2,
-    "end": 96.5,
+    "start": 93.0,
+    "end": 96.4,
     "kanji": "今日だって 笑う 笑う",
     "furigana": [
       { "char": "今日", "reading": "きょう" },
@@ -194,7 +201,7 @@
     "translation": "Hôm nay cũng vậy, cười, cười"
   },
   {
-    "start": 96.5,
+    "start": 96.4,
     "end": 100.3,
     "kanji": "泣いちゃう僕を隠すために笑う",
     "furigana": [
@@ -237,8 +244,8 @@
     "translation": "Có lẽ nếu nghĩ thế sẽ nhẹ nhõm hơn"
   },
   {
-    "start": 108.5,
-    "end": 111.5,
+    "start": 108,
+    "end": 111.2,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
       { "char": "愛", "reading": "あい" },
@@ -250,8 +257,8 @@
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
   {
-    "start": 111.5,
-    "end": 115.2,
+    "start": 111.2,
+    "end": 114.9,
     "kanji": "夜に咲く温度と灯るまで",
     "furigana": [
       { "char": "夜", "reading": "よる" },
@@ -266,8 +273,8 @@
     "translation": "Cho đến khi nhiệt độ của đêm nở hoa và ánh sáng bật lên"
   },
   {
-    "start": 115.2,
-    "end": 118.8,
+    "start": 114.9,
+    "end": 118.6,
     "kanji": "呼吸ひとつ 生きる 生きる",
     "furigana": [
       { "char": "呼吸", "reading": "こきゅう" },
@@ -280,8 +287,8 @@
     "translation": "Một hơi thở, sống, sống"
   },
   {
-    "start": 118.8,
-    "end": 122.3,
+    "start": 118.6,
+    "end": 122.2,
     "kanji": "優しい日々の横で泣かぬように",
     "furigana": [
       { "char": "優", "reading": "やさ" },
@@ -296,7 +303,7 @@
     "translation": "Để không khóc bên cạnh những ngày dịu dàng"
   },
   {
-    "start": 123.0,
+    "start": 122.2,
     "end": 128.1,
     "kanji": "愛をひとつ またね またね 嗚呼",
     "furigana": [
@@ -310,8 +317,8 @@
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại, à…"
   },
   {
-    "start": 130.6,
-    "end": 133.7,
+    "start": 130.0,
+    "end": 133.4,
     "kanji": "愛をひとつ またね またね",
     "furigana": [
       { "char": "愛", "reading": "あい" },
@@ -323,7 +330,7 @@
     "translation": "Gửi một chút yêu thương, hẹn gặp lại, hẹn gặp lại"
   },
   {
-    "start": 133.7,
+    "start": 133.4,
     "end": 137.4,
     "kanji": "優しい日々の横で笑うように 嗚呼",
     "furigana": [
