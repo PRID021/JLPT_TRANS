@@ -1,0 +1,54 @@
+[
+  {
+    "start": 5.4,
+    "end": 21.5,
+    "kanji": "おはよう　おはよう　きょうもいいひだね",
+    "furigana": [
+      { "char": "おはよう", "reading": "おはよう", "romaji": "ohayō" },
+      { "char": "きょう", "reading": "きょう", "romaji": "kyō" },
+      { "char": "も", "reading": "も", "romaji": "mo" },
+      { "char": "いい", "reading": "いい", "romaji": "ii" },
+      { "char": "ひ", "reading": "ひ", "romaji": "hi" },
+      { "char": "だね", "reading": "だね", "romaji": "da ne" }
+    ],
+    "translation": "Chào buổi sáng, hôm nay cũng là một ngày tuyệt vời"
+  },
+  {
+    "start": 28.2,
+    "end": 43.5,
+    "kanji": "こんにちは　こんにちは　はじめまして",
+    "furigana": [
+      { "char": "こんにちは", "reading": "こんにちは", "romaji": "konnichiwa" },
+      {
+        "char": "はじめまして",
+        "reading": "はじめまして",
+        "romaji": "hajimemashite"
+      }
+    ],
+    "translation": "Xin chào, rất vui được gặp bạn"
+  },
+  {
+    "start": 53.3,
+    "end": 67.3,
+    "kanji": "こんばんは　こんばんは　ゆっくりやすんで",
+    "furigana": [
+      { "char": "こんばんは", "reading": "こんばんは", "romaji": "konbanwa" },
+      { "char": "ゆっくり", "reading": "ゆっくり", "romaji": "yukkuri" },
+      { "char": "やすんで", "reading": "やすんで", "romaji": "yasunde" }
+    ],
+    "translation": "Chào buổi tối, hãy nghỉ ngơi thật thoải mái nhé"
+  },
+  {
+    "start": 87.2,
+    "end": 101.2,
+    "kanji": "さようなら　またね　あしたもわらって",
+    "furigana": [
+      { "char": "さようなら", "reading": "さようなら", "romaji": "sayōnara" },
+      { "char": "またね", "reading": "またね", "romaji": "mata ne" },
+      { "char": "あした", "reading": "あした", "romaji": "ashita" },
+      { "char": "も", "reading": "も", "romaji": "mo" },
+      { "char": "わらって", "reading": "わらって", "romaji": "waratte" }
+    ],
+    "translation": "Tạm biệt, hẹn gặp lại, ngày mai cũng hãy cười nhé"
+  }
+]
